@@ -1,0 +1,15 @@
+{
+    "name": "panda/mvc",
+    "authors": [
+        {
+            "name": "Bishoy Souser",
+            "email": "Bishoysouser@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
